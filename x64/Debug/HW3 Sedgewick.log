@@ -1,0 +1,14 @@
+﻿  HW3 Sedgewick.cpp
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(95,26): warning C4305: аргумент: усечение из "__int64" в "unsigned int"
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(95,11): warning C4309: аргумент: усечение константного значения
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(109,27): warning C4305: аргумент: усечение из "__int64" в "unsigned int"
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(109,11): warning C4309: аргумент: усечение константного значения
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(128,39): warning C4244: аргумент: преобразование "double" в "const __int64", возможна потеря данных
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(128,86): warning C4244: аргумент: преобразование "double" в "const __int64", возможна потеря данных
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(49,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\Cods\HW3 Sedgewick\HW3 Sedgewick.cpp(180): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ShellSortSedgewick<int>(T *,int)"
+          with
+          [
+              T=int
+          ]
+  HW3 Sedgewick.vcxproj -> G:\Cods\HW3 Sedgewick\x64\Debug\HW3 Sedgewick.exe
